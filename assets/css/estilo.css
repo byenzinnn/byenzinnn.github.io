@@ -1,0 +1,21 @@
+* {
+    background-color: #000000;
+    background-image: url(BgImagemFundo.png);
+    font-family: 'Gabarito', cursive;
+}
+
+.container {
+    width: 100%;
+    max-width: 960px;
+    margin: 0 auto;
+    align-items: center;
+    text-align: center;
+}
+
+.info {
+    color: rgb(255, 255, 255);
+    align-items: center;
+    padding: 40px;
+    margin-top: 20%;
+    width: 20px;
+}
